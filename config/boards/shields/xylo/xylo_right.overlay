@@ -1,4 +1,4 @@
-#include "klotz.dtsi"
+#include "xylo.dtsi"
 
 &default_transform {
 	col-offset = <5>;
