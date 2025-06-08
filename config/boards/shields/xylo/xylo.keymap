@@ -11,11 +11,11 @@
         default_layer {
             bindings = <
         &kp Q       &kp W       &kp E       &kp R       &kp T           &kp J       &kp U       &kp I       &kp M       &kp SEMI
-        &kp A       &kp R       &kp S       &kp T       &kp D           &kp H       &kp N       &kp E       &kp I       &kp L
+        &kp A       &kp S       &kp D       &kp F       &kp G           &kp H       &kp N       &kp E       &kp I       &kp L
         &kp Z       &kp X       &kp C       &kp V       &kp B           &kp K       &kp M       &kp COMMA   &kp DOT     &kp FSLH
-        &kp Z                               &kp TAB     &kp SPACE       &kp J       &kp BSPC                            &kp P
+        &kp M                               &kp TAB     &kp SPACE       &kp J       &kp BSPC                            &kp P
             >;
-        };
+        };tt
 
         bt_layer {
             bindings = <
